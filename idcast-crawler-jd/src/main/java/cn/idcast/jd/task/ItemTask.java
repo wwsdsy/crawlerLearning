@@ -36,6 +36,7 @@ public class ItemTask {
         System.out.println("手机数据抓取成功");
     }
 
+
     private void parse(String html) {
         //解析html 获取Document
         Document doc = Jsoup.parse(html);
