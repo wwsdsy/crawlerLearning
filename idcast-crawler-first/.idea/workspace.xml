@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74c9d5b-3b36-4142-be96-7f628dd657e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/GitTry.java" afterPath="$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/GitTry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/task/ItemTask.java" afterPath="$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/task/ItemTask.java" />
-    </list>
+    <list default="true" id="e74c9d5b-3b36-4142-be96-7f628dd657e6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/idcast-crawler-jd/target/" />
     <ignored path="$PROJECT_DIR$/../idcastcrawlerjd/target/" />
@@ -152,7 +148,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GitTry.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GitTry.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/GitTry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -165,8 +161,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GitTry2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/GitTry2.java">
+      <file leaf-file-name="gitTry3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/gitTry3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -175,11 +171,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/pom.xml">
+      <file leaf-file-name="GitTry2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/GitTry2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="56" lean-forward="false" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+            <state relative-caret-position="108">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -252,7 +248,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="163" />
     <option name="y" value="11" />
     <option name="width" value="1400" />
@@ -623,7 +619,7 @@
       <workItem from="1566836883271" duration="4267000" />
       <workItem from="1566917137571" duration="6421000" />
       <workItem from="1567003108117" duration="5762000" />
-      <workItem from="1567617042412" duration="852000" />
+      <workItem from="1567617042412" duration="966000" />
     </task>
     <servers />
   </component>
@@ -660,7 +656,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32045000" />
+    <option name="totallyTimeSpent" value="32159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,7 +668,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1049" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1049" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -688,7 +684,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -748,13 +744,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/idcast-crawler-first.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jsoup/JsoupFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1917">
@@ -1150,6 +1139,14 @@
             <element signature="e#88#89#0" expanded="true" />
             <element signature="e#126#127#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../idcast-crawler-jd/src/main/java/cn/idcast/jd/gitTry3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
